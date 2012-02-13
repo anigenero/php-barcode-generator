@@ -1,0 +1,3 @@
+PHP-Barcode-Generator is a PHP script that generates a Code 128 barcode image based on
+the Code 128 standard available here http://en.wikipedia.org/wiki/Code_128. The ability
+for other barcode generation will be available in the future.
