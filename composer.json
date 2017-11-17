@@ -1,0 +1,21 @@
+{
+  "name": "anigenero/php-barcode-generator",
+  "description": "Barcode generator written in PHP",
+  "keywords": [
+    "barcode"
+  ],
+  "version": "1.0.1",
+  "license": "MIT",
+  "type": "library",
+  "include-path": [
+    "src/"
+  ],
+  "authors": [
+    {
+      "name": "Robin Schultz",
+      "email": "robin@anigenero.com",
+      "homepage": "http://www.anigero.com",
+      "role": "Developer"
+    }
+  ]
+}
